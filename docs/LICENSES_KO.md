@@ -2,7 +2,7 @@
 
 ## RisuFold 자체 코드
 
-저작권 © 2026 marv435624q. RisuFold 배포본의 자체 코드에 [PolyForm Strict License 1.0.0](https://polyformproject.org/licenses/strict/1.0.0)을 적용합니다.
+저작권 © 2026 marv435624q. RisuFold 배포본의 자체 코드에 [PolyForm Strict License 1.0.0](licenses/PolyForm-Strict-1.0.0.txt)을 적용합니다. 이 저장소의 원문 사본은 [PolyForm Project 공식 원문](https://polyformproject.org/licenses/strict/1.0.0.txt)을 변경 없이 보관한 것입니다.
 
 - 비상업 목적으로 원본 그대로 사용 가능.
 - 저작권자의 별도 허락 없는 수정·재배포·다른 플러그인 편입·코드 일부 재사용 및 상업적 이용 금지.
